@@ -1,9 +1,10 @@
 # Responsive Multi-Page Website
 
 This project is a simple responsive website containing three pages: **Home**, **About**, and **Contact**. 
-The website is styled using custom CSS (without any frameworks), and it includes media queries for responsive design with two breakpoints.
+The website is styled using custom CSS and includes media queries for responsive design with two breakpoints.
 
 The layout adapts to different screen sizes using CSS media queries, ensuring it works well on desktops, tablets, and mobile devices.
+
 The website is responsive with the following two breakpoints:
 
 1. First Breakpoint (Max Width: 768px)**  
